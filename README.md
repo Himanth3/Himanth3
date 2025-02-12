@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently studying <br>
 
+https://gifdb.com/images/high/computer-programming-html-coding-ygk3aq1mwnfu4360.gif
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanthbammidi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanthbammidi2004@gmail.com) 
