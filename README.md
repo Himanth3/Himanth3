@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently studying <br>
 
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/computer-programming-html-coding-ygk3aq1mwnfu4360.gif")
+img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/computer-programming-html-coding-ygk3aq1mwnfu4360.gif"
 
 
 ## 🌐 Socials:
